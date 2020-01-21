@@ -2,7 +2,8 @@
 #Version 4.0
 #Changes: Indiviual highscores for each level and home screem improved to look better with Snake Logo
 #Date: Jan 14 2020
-#Gameplay credit goes to teclado (youtube)
+#Gameplay credit goes to teclado (youtube) 
+#Homes pages,level difficulty, highscore tracker and end page customized and built by me
 
 from random import randint
 import tkinter as tk
